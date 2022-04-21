@@ -1,6 +1,4 @@
-The Bio-Image Indexing and Graphical Labelling Environment (BIIGLE) is a web service for the efficient and rapid annotation of still images and videos. Read [the paper](https://doi.org/10.3389/fmars.2017.00083) or take a look at [the manual](https://biigle.de/manual).
-
-BIIGLE is available online at [biigle.de](https://biigle.de).
+BIIGLE is a web service for the efficient and rapid annotation of still images and videos. Read [the paper](https://doi.org/10.3389/fmars.2017.00083) or take a look at [the manual](https://biigle.de/manual). A public BIIGLE instance is available at [biigle.de](https://biigle.de).
 
 ## Support
 
