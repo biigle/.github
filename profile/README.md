@@ -10,4 +10,4 @@ Contributions to BIIGLE are always welcome. Check out [`biigle/core`](https://gi
 
 ## Installation
 
-Head over to [`biigle/biigle`](https://github.com/biigle/biigle) for more information on how to set up your own BIIGLE instance.
+Head over to [`biigle/biigle`](https://github.com/biigle/biigle) for more information on how to set up your own BIIGLE production instance.
