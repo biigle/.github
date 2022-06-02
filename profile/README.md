@@ -1,10 +1,10 @@
 BIIGLE is a web service for the efficient and rapid annotation of still images and videos. Read [the paper](https://doi.org/10.3389/fmars.2017.00083) or visit the instance at [biigle.de](https://biigle.de).
 
-## Support
+## Support and bug reports
 
 Please read our [contributing guide](https://github.com/biigle/core/blob/master/CONTRIBUTING.md) for bug reports or feature requests. For anything else, please start a new [discussion](https://github.com/orgs/biigle/discussions).
 
-## Contributions and bug reports
+## Contributions
 
 Contributions to BIIGLE are always welcome. Check out [`biigle/core`](https://github.com/biigle/core/blob/master/CONTRIBUTING.md) to get started.
 
